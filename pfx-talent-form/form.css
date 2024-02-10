@@ -15,7 +15,7 @@ body, html {
     align-items: center; /* Center items vertically */
     justify-content: start; /* Align items to the start (left) side of the container */
     position: relative; /* Ensure the hero bar can contain absolutely positioned elements */
-    background-color: #1e293b; /* Assuming bg-slate-950 translates to this color */
+    background-color: #E9E6D7; /* Assuming bg-slate-950 translates to this color */
     height: 128px; /* Set the height of the hero bar */
     padding-left: 10%;
 }
@@ -27,7 +27,7 @@ body, html {
     left: 0;
     right: 0;
     top: 0;
-    background-image: linear-gradient(to right, #4f4f4f2e 1px, transparent 1px), linear-gradient(to bottom, #4f4f4f2e 1px, transparent 1px);
+    background-image: linear-gradient(to right, #E9E6D7 1px, transparent 1px), linear-gradient(to bottom, #E9E6D7 1px, transparent 1px);
     background-size: 14px 24px;
 }
 
