@@ -27,7 +27,7 @@ body, html {
     left: 0;
     right: 0;
     top: 0;
-    background-image: linear-gradient(to right, #E9E6D7 1px, transparent 1px), linear-gradient(to bottom, #E9E6D7 1px, transparent 1px);
+    background-image: linear-gradient(to right, #E9E6D7 1px, transparent 0px), linear-gradient(to bottom, #E9E6D7 0px, transparent 0px);
     background-size: 14px 24px;
 }
 
