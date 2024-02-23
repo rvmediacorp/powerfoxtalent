@@ -1,5 +1,18 @@
 {
+  "name": "powerfoxtalent-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build"
+  },
   "dependencies": {
     "netlify-cms-app": "^2.15.72"
   }
 }
+
+{
+  "dependencies": {
+    "netlify-cms-app": "^2.15.72"
+  }
+}
+
