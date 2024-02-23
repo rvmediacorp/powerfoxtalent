@@ -1,7 +1,6 @@
 {
   "name": "powerfoxtalent-website",
   "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {
     "netlify-cms-app": "^2.15.72"
   }
