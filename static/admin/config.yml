@@ -5,6 +5,9 @@ backend:
 media_folder: static/assets
 public_folder: /assets
 
+media_library:
+  name: git-gateway
+
 collections:
   - name: "blog"
     label: "Blog"
