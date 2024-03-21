@@ -5,3 +5,9 @@
   from = "/admin/*"
   to = "/static/admin/index.html"
   status = 200
+
+[[redirects]]
+  from = "/audition/*"
+  to = "https://www.videoask.com/fkmx3jlgp"
+  status = 200
+  force = true
